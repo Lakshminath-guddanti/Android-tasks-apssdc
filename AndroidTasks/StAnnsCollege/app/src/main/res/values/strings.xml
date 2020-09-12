@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">StAnnsCollege</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="para">
+        <ul>
+            <li>->Awarded \'A\' Grade by Andhra Pradesh State Government.\n</li>
+            <li>->New Recognized as Andhra Pradesh State Skill Development Center.\n</li>
+            <li>->New 11 Doctorates in the department and 15 faculty members are pursuing Ph.D.\n</li>
+            <li>->New Permanently Affiliated to the Jawaharlal Nehru Technological University, Kakinada.\n</li>
+        </ul>
+    </string>
+    <string name="announcements">
+        <ul>
+            <li>->A Two day workshop on Cloud Computing held on October 2019 by APSSDC.\n</li>
+            <li>->Department is going to organize an workshop on MACHINE LEARNING in the second week of March\n</li>
+            <li>->Congratulations to all the Students who were qualified in RHCSA Certificatiton Conducted by Redhat.\n</li>
+            <li>->Congrats to our beloved faculty Mr.Thirupathaiah Amarthaluri, Ms. Yallanti Sowjanya Kumari and Mr. Yezarla Chittibabu for getting Ph.D.\n</li>
+        </ul>
+    </string>
+    <string name="contacts">
+        <ul>
+            <li>Postal Address\n\n</li>
+            <li>Dr.P.Harini\n</li>
+            <li>Head,Department of C.S.E\n</li>
+            <li>St.Ann\'s College of Engineering and Technology,\n</li>
+            <li>Chirala , Andhra Pradesh - 523155,\n</li>
+            <li>INDIA.\n\n</li>
+
+            <li>Phone Numbers\n</li>
+            <li>Telephone : 08594-247500, 246100, 246102 \n</li>
+            <li>FAX :08594-247300\n</li>
+        </ul>
+    </string>
+</resources>

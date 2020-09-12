@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">AndroidVersions</string>
+    <string-array name="title">
+        <item>Alpha</item>
+        <item>Beta</item>
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>GingerBread</item>
+        <item>HoneyComb</item>
+        <item>IceCreamSandwitch</item>
+        <item>JellyBeam</item>
+        <item>KitKat</item>
+        <item>Lolipop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+        <item>pie</item>
+        <item>Android_10</item>
+        <item>Android_11</item>
+
+    </string-array>
+    <string-array name="version">
+        <item>1.0</item>
+        <item>1.1</item>
+        <item>1.5</item>
+        <item>1.6</item>
+        <item>2.0-2.1</item>
+        <item>2.2-2.2.3</item>
+        <item>2.3-2.3.7</item>
+        <item>3.0-3.2.6</item>
+        <item>4.0-4.0.4</item>
+        <item>4.1-4.3.1</item>
+        <item>4.4-4.4.4</item>
+        <item>5.0-5.1.1</item>
+        <item>6.0-6.0.1</item>
+        <item>7.0-7.1.2</item>
+        <item>8.0-8.1</item>
+        <item>9.0</item>
+        <item>10.0</item>
+        <item>11.0</item>
+
+    </string-array>
+    <string-array name="releasedate">
+        <item>sep_23,2008</item>
+        <item>Feb_9,2009</item>
+        <item>Apr_27,2009</item>
+        <item>Sep_15,2009</item>
+        <item>Oct_26,2009</item>
+        <item>May_20,2010</item>
+        <item>Dec_6,2010</item>
+        <item>Feb_22,2011</item>
+        <item>Oct_18,2011</item>
+        <item>July_9,2012</item>
+        <item>Oct_31,2013</item>
+        <item>Nov_12,2014</item>
+        <item>Oct_5,2015</item>
+        <item>Aug_22,2016</item>
+        <item>Aug_21,2017</item>
+        <item>Aug_6,2018</item>
+        <item>Sep_3,2019</item>
+        <item>Sep_8,2020</item>
+
+    </string-array>
+</resources>
